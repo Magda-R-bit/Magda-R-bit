@@ -1,7 +1,10 @@
+![Banner](github-header-banner.png)
+
+
 ## Hi there 👋 I'm Magda
 
 
-🌿  **Junior Software Developer | Lifelong Learner**  🌿
+🌿  **Junior Full Stack Software Developer | Lifelong Learner**  🌿
 
 ### 👨‍💻 About Me
 
