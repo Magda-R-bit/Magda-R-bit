@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I'm Magda
 
 <!--
-**Magda-R-bit/Magda-R-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌿  **Junior Software Developer | Lifelong Learner**  🌿
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 👨‍💻 About Me
+
+- ☕ Can’t start my day without coffee.
+- 🌱 I’m currently learning Django
+- 💡 Interested in: Web development and building cool apps
+- ⚡ Fun fact: ⌨️ I learned to code by breaking stuff first, fixing it later 😅
+                💡 I once solved a bug at 3 AM and forgot how by the morning 🤣🤣🤣
+
+### 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/magdalena-redka-b97b9455/)
+- 📫 How to reach me: magda.redka@gmail.com
+
+
 -->
