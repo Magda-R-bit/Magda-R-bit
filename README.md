@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Magda
 
-<!--
 
 🌿  **Junior Software Developer | Lifelong Learner**  🌿
 
@@ -17,4 +16,3 @@
 - 📫 How to reach me: magda.redka@gmail.com
 
 
--->
