@@ -15,7 +15,7 @@
                 💡 I once solved a bug at 3 AM and forgot how by the morning 🤣🤣🤣
 
 
-### 👩‍💻 Professional Experience
+###  💼 Professional Experience
 
 Pola — Frontend Developer (Volunteer)
 
@@ -24,7 +24,7 @@ Contributing to an existing web application using React.
 - [Pola](https://github.com/KlubJagiellonski/pola-web)
 
 
-### ⌨️ My projects:
+### 🛠️ My projects:
   
 - [Balance Your Life](https://github.com/Magda-R-bit/balance_your_life)
 - [Memory Card Game](https://github.com/Magda-R-bit/memory-card-game)
